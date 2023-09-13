@@ -4,10 +4,12 @@
     "cover": "https://i.ibb.co/PtnZrwT/Rectangle-1.jpg",
     "title": "The Enigmatic Adventure",
     "author": "John Doe",
-    "author-img": "https://i.ibb.co/KqQYjbS/Ellipse-1.jpg",
-    "posted-date": "2023-09-13",
-    "reading-time": "10 minutes",
-    "hashtag": "#Adventure #Mystery"
+    "authorimg": "https://i.ibb.co/KqQYjbS/Ellipse-1.jpg",
+    "date": "2023-09-13",
+    "time": "10 minutes",
+    "icon":"https://i.ibb.co/87NQTTX/Frame.jpg",
+    "hashtag": "#Adventure #Mystery",
+    "mark":"Mark as read"
   }
   ,
   {
@@ -15,10 +17,12 @@
     "cover": "https://i.ibb.co/B4RRTHt/Rectangle-2.jpg",
     "title": "Exploring Uncharted Realms",
     "author": "Jane Smith",
-    "author-img": "https://i.ibb.co/pZDvL9W/Ellipse-2.jpg",
-    "posted-date": "2023-09-12",
-    "reading-time": "8 minutes",
-    "hashtag": "#Exploration #Fantasy"
+    "authorimg": "https://i.ibb.co/pZDvL9W/Ellipse-2.jpg",
+    "date": "2023-09-12",
+    "time": "8 minutes",
+    "icon":"https://i.ibb.co/87NQTTX/Frame.jpg",
+    "hashtag": "#Exploration #Fantasy",
+    "mark":"Mark as read"
   }
  ,
   {
@@ -26,31 +30,12 @@
     "cover": "https://i.ibb.co/tLRfRJm/Rectangle-3.jpg",
     "title": "Innovative Tech Trends",
     "author": "Michael Johnson",
-    "author-img": "https://i.ibb.co/k31ZXTY/Ellipse-3.jpg",
-    "posted-date": "2023-09-11",
-    "reading-time": "5 minutes",
-    "hashtag": "#Technology #Innovation"
+    "authorimg": "https://i.ibb.co/k31ZXTY/Ellipse-3.jpg",
+    "date": "2023-09-11",
+    "time": "5 minutes",
+    "icon":"https://i.ibb.co/87NQTTX/Frame.jpg",
+    "hashtag": "#Technology #Innovation",
+    "mark":"Mark as read"
   }
-,
-  {
-    "id": 4,
-    "cover": "https://example.com/cover4.jpg",
-    "title": "Culinary Delights Around the World",
-    "author": "Sophia Lee",
-    "author-img": "https://example.com/author4.jpg",
-    "posted-date": "2023-09-10",
-    "reading-time": "12 minutes",
-    "hashtag": "#Food #Travel"
-  }
- ,
-  {
-    "id": 5,
-    "cover": "https://example.com/cover5.jpg",
-    "title": "Artistic Expressions in Photography",
-    "author": "David Clark",
-    "author-img": "https://example.com/author5.jpg",
-    "posted-date": "2023-09-09",
-    "reading-time": "7 minutes",
-    "hashtag": "#Photography #Art"
-  }
+
 ]
